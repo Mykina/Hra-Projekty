@@ -1,0 +1,56 @@
+Main quest: odmaturovat
+-co pro to potrebuje: do ? dní získat 60 (+) knowledge pointů
+-jinak game over
+
+
+Jak se získávají:
+-od postav po mapě, plněním jejich questů
+
+
+Každé npc bude mít podmínky za jakých knowledge poskytnou
+-řetěz questů od různých npcček
+
+
+Systém času:
+-vždy 7:50 - 16:10 (pak další den)
+-> pak další den
+
+
+Systém životů / zápisy:
+-3 životy / zápisy -> pak game over (ředitelka cutscene)
+
+
+Mapa:
+gymlit- vchod, šatna (skříňky), chodba, třídy (x?), bufet (relaxační koutek), civ, knihovna, ředitelna, záchody (x?, fein), šatny (TV), tělocvična, zahrada, venkovní kruh, sklep
+
+okolí- vietnamec (vuong), sídliště (kebab), madlina
+
+
+Inventář:
+-? slotů
+-default: 
+boty (možnost nosit, + 20 speedboost)
+...
+
+Npcs:
+školník (hostile/neutral)- lokace: chodby, zahrada, sklep / chce: cíga, pomoct na zahrádce, ... / dává: freeroam, ... / chování/dialog: nasranej, odbíjí, ...
+
+rozumová (hostile/neutral)- lokace: chodby, třídy / chce: zbavit se bot, umět matiku idk, ... / dává: 15 KP, ... / chování/dialog: při nošení bot = hostile/jinak = neutral, nabízí free konzultace (zaberou 2 dny), ...
+
+širl- lokace: třídy, knihovna / chce: catchphrase idk, ... / dává: -1 zápis (+1HP), 15 KP, radu (?), ... / chování/dialog: klidnej, aura, morální lekce, psychologické/filosofické tríčky, outsmarting idk, ...
+
+feiner- lokace: záchody / chce: mise k vietnamcovi, ... / dává: -10 KP, ... / chování/dialog: agresivní/mega chill, ...
+
+bartošic- lokace: třídy / chce: být na hodině, součástky do stroje času(?), ... / dává: 10 KP, stroj času (vrátí 2 dny) / chování/dialog: vyhýbavý, příběhy z dětství, hádanky
+
+plachý- lokace: knihovna / chce: ticho, klid, spisovnou mluvu, ... / dává: 15 KP (zabere 1 den), knihu ... / chování/dialog: spisovná mluva = neutral/jinak = agresivní, ... 
+
+bufet goat- lokace: bufet / chce: peníze, úsměv na tváři, ... / dává: tousty / chování/dialog: milá, stručná (řada na bufet)
+
+krajčová- lokace: třídy / chce: chemickou smegmu, zkoušení, odevzdat fein, ... / dává: 20 KP, chemickou smegmu (crystal meth), ... / chování/dialog: neúprosná, ego, ...
+
+ředitelka- lokace: ředitelna, chodby / chce: max. 1 zápis, min. 30 KP, ... / dává: 20/30 KP, ... / chování/dialog: mocná aura, ego,
+
+vietnamec- ...
+
+paří- ...
